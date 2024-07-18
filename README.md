@@ -12,9 +12,8 @@ An Android application for calculating dimensions and weights of carton boxes an
 - **Snackbar Notifications**: Displays messages using Material Design's Snackbar.
 
 ## Screenshots
+![Check Karo](https://github.com/user-attachments/assets/f47dbab0-f657-4e27-b840-7e88bc559b06)
 
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
 
 ## Installation
 
