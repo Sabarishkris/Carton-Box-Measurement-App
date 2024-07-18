@@ -4,8 +4,8 @@ An Android application for calculating dimensions and weights of carton boxes an
 
 ## Features
 
-- **Box Calculation**: Calculate dimensions and weights for carton boxes.
-- **Board Calculation**: Calculate dimensions and weights for boards.
+- **Box Calculation**: Calculate weights for carton boxes.
+- **Board Calculation**: Calculate weights for boards.
 - **Dynamic UI**: Responsive layout adjusts for various screen sizes and orientations.
 - **ViewModel Integration**: Utilizes ViewModel architecture for managing UI-related data.
 - **Navigation**: Implements Jetpack Navigation for seamless screen transitions.
