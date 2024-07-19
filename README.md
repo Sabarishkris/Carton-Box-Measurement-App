@@ -30,5 +30,5 @@ An Android application for calculating dimensions and weights of carton boxes an
 ## Usage
 - Describe briefly how to use the app. For example:
 - Enter dimensions and other required details.
-- Tap "Calculate" to see results.
+- Automatically "Calculated" to see results below.
 - Navigate between box and board calculation screens using the bottom navigation.
